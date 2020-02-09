@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWEntityFramework", "PWEntityFramework\PWEntityFramework.csproj", "{29782366-1542-4F21-86BE-D981CAEED174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{97515F2D-56D4-42C4-BBD5-5BF46F775B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29782366-1542-4F21-86BE-D981CAEED174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29782366-1542-4F21-86BE-D981CAEED174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29782366-1542-4F21-86BE-D981CAEED174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29782366-1542-4F21-86BE-D981CAEED174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97515F2D-56D4-42C4-BBD5-5BF46F775B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97515F2D-56D4-42C4-BBD5-5BF46F775B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97515F2D-56D4-42C4-BBD5-5BF46F775B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97515F2D-56D4-42C4-BBD5-5BF46F775B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADEFEAB2-9E2C-4B89-AE86-7E98F43D089E}
+	EndGlobalSection
+EndGlobal
